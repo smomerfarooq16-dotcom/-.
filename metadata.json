@@ -1,0 +1,6 @@
+{
+  "name": "Iman o Taqwa",
+  "description": "Bilingual (English & Urdu) Islamic daily-habits tracker, tasbeeh, diary, calendar, and smart reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Iman o Taqwa</string>
+    <string name="alarm_dismiss">Dismiss</string>
+    <string name="alarm_snooze">Snooze</string>
+    <string name="alarm_open_tasks">Open tasks</string>
+    <string name="alarm_default_title">Tasks pending</string>
+    <string name="channel_bell_name">Alarm · Bell</string>
+    <string name="channel_beep_name">Alarm · Beep</string>
+    <string name="channel_chime_name">Alarm · Chime</string>
+    <string name="channel_soft_name">Alarm · Soft</string>
+</resources>
